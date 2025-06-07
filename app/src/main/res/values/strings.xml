@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">my_api</string>
+    <string name="character_image">Изображение персонажа</string>
+</resources>
